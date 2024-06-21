@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jagrutatwork
 - 👀 I’m interested in mobile and web development
+- Java, JS, SQL, ReactJs, Flutter, Dotnet!
 - 🌱 I’m currently learning Flutter and Firebase
 - 💞️ I’m looking to collaborate on Flutter based projects
 - 📫 How to reach me jagrutatwork@gmail.com
