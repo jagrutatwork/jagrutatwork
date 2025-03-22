@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @jagrutatwork
-- 👀 I’m interested in mobile and web development
-- Java, JS, SQL, ReactJs, Flutter, Dotnet!
-- 🌱 I’m currently learning Flutter and Firebase
-- 💞️ I’m looking to collaborate on Flutter based projects
-- 📫 How to reach me jagrutatwork@gmail.com
+- 👀 I’m a passionate Java Backend developer focused on building scalable, high-performance systems, with a mild interest in low-latency, low-level computing using C++.
+- 🌱 I’m continually honing my skills in Java and exploring backend technologies.
+- 💞️ I’m open to collaborating on challenging Java backend projects and performance optimization initiatives.
+- 📫 How to reach me: jagrutatwork@gmail.com
 
 <!---
 jagrutatwork/jagrutatwork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
